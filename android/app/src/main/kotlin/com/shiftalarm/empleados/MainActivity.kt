@@ -1,4 +1,4 @@
-package com.example.app_empleados
+package com.shiftalarm.empleados
 
 import io.flutter.embedding.android.FlutterActivity
 
