@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468115744284",
+    "project_id": "shiftalarm-7f32c",
+    "storage_bucket": "shiftalarm-7f32c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468115744284:android:1409f8e5b583fd495f61d9",
+        "android_client_info": {
+          "package_name": "com.shiftalarm.empleados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XOJDL90eCMFFNE6NJ-_NRHLKhCqZuY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
